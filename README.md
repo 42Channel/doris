@@ -4,6 +4,8 @@
 
 围绕模型与核心技术、AI Infra、Physical AI，追踪技术来源与候选机构。
 
+**可搜索、可筛选的展示板：[打开网页版](https://42channel.github.io/doris/)**
+
 ## 目录
 
 - [公司与机构候选](#公司与机构候选)
