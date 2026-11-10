@@ -6,6 +6,17 @@
 
 **可搜索、可筛选的展示板：[打开网页版](https://42channel.github.io/doris/)**
 
+<!-- FUNDING-SUMMARY -->
+## 2021 年以来 Seed–D 公司研究库
+
+**84 家公司 · 89 条历史融资事件**。以 2021-01-01 至 2026-11-10 的公开 Seed–D 事件为筛选依据，不限成立年份。
+
+[打开融资筛选板](https://42channel.github.io/doris/funding.html) · [查看完整清单](FUNDING.md) · [下载 CSV](funding.csv) · [JSON](funding-data.json)
+
+这是持续扩充的公开研究覆盖，**并非全球全量或每家公司完整融资史**；区分本次一手来源核验与既有快照。历史轮次与当前状态分开，待核验事件单列。原有 Top100 来源清单保持原结构。
+<!-- /FUNDING-SUMMARY -->
+
+
 ## 目录
 
 - [公司与机构候选](#公司与机构候选)
