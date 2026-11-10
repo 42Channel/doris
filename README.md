@@ -17,6 +17,7 @@
 <!-- /FUNDING-SUMMARY -->
 
 
+
 ## 目录
 
 - [公司与机构候选](#公司与机构候选)
@@ -352,3 +353,13 @@
 本仓库是独立的公开快照，不自动读取内部工作台。更新时先筛选公开字段，再同时更新 `public-data.json`、`index.html` 与本页。
 
 最近更新：2026-11-10。
+
+## 更新融资研究库
+
+编辑 `funding-data.json`，逐条保留证据、核验截止与金额口径，然后运行：
+
+```bash
+python scripts/build-funding.py
+```
+
+将 JSON、生成的 HTML、CSV、FUNDING.md 和 README.md 一起提交到 main，GitHub Pages 会更新。新增记录须核对主体与历史 Seed–D 事件；此流程不自动写入正式 Deal Flow。
